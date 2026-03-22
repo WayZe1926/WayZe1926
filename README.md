@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm WayZe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wayze1926&label=Profile%20views&color=0e75b6&style=flat" alt="wayze1926" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wayze1926" alt="wayze1926" /></a> </p>
